@@ -1,0 +1,22 @@
+{
+  "creds": {
+    "signedIdentityKey": "base64string",
+    "signedPreKey": { "keyId": 1, "publicKey": "base64", "signature": "base64" },
+    "registrationId": 123456,
+    "advSecretKey": "secretKey",
+    "processedHistoryMessages": [],
+    "nextPreKeyId": 2,
+    "firstUnuploadedPreKeyId": 2,
+    "serverHasPreKeys": true,
+    "accountSettings": { "unarchiveChats": false },
+    "deviceId": "deviceID",
+    "phoneId": "phoneID",
+    "identityId": "identityID"
+  },
+  "keys": {
+    "preKeys": {},
+    "sessions": {},
+    "senderKeys": {},
+    "appStateSyncKeys": {}
+  }
+}
